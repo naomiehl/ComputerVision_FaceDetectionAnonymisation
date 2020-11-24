@@ -15,7 +15,6 @@ cap = cv2.VideoCapture(0)
 
 blur = False
 framed = False
-canny = False
 framed_eyes = False
 blur_eyes = False
 
@@ -42,8 +41,6 @@ while True:
             if framed_eyes:
                 for (ex,ey,ew,eh) in eyes:
                     cv2.rectangle(roi_color,(ex,ey),(ex+ew,ey+eh),(0,255,0),2)
-            if canny:
-                
             
             
         cv2.imshow('Face Recognized',frame)
@@ -51,10 +48,7 @@ while True:
     
     if ch == ord("b"):
         blur = not blur
-        
-    if ch == ord("c"):
-        canny = not cannyny
-        
+                
     if ch == ord("e"):
         framed_eyes = not framed_eyes
 
