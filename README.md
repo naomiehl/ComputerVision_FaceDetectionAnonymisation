@@ -9,3 +9,4 @@
 * MedianBlur ( Bluring )
 * Bilateral Filter ( Bluring )
 * Moustache Filter
+* Eyes Filter
