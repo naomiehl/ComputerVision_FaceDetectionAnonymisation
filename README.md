@@ -11,7 +11,7 @@
 * Moustache Filter
 * Eyes Filter
 
-## Run the program
+## How to run the program
 * Press a to detect face
 * Press b to detect eyes
 * Press c to apply GaussianBlur Filter
