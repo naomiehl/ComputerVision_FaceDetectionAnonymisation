@@ -16,7 +16,8 @@
 * Press b to detect eyes
 * Press c to apply GaussianBlur Filter
 * Press d to apply MedianBlur Filter
-* Press e to apply Bilteral Filter
-* Press f to add a moustache
+* Press w to apply Bilteral Filter
+* Press h to add a moustache 
+* Press f to anonymize the eyes with black boxes
 * Press g to add eyes 👀 
 * Press s to save the image in your computer
