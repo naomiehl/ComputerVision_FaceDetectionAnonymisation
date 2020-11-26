@@ -1,4 +1,8 @@
-# FaceDetect
+# FaceDetection and Anonymization
+
+## Dependencies
+* OpenCV(3.2.0)
+* Python 2.7x
 
 ## Currently detection are available:
 * Detect Faces
