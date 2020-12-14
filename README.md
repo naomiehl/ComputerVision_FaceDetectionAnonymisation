@@ -14,8 +14,11 @@ It uses **Haar features** and the **Viola–Jones object detection** framework i
 * GaussianBlur ( Bluring )
 * MedianBlur ( Bluring )
 * Bilateral Filter ( Bluring )
+
+## Currently it is possible to add these different accessories:
 * Moustache Filter
 * Eyes Filter
+* Black eyes Filter
 
 ## How to run the program
 * Press a to detect face
