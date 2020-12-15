@@ -1,6 +1,10 @@
 # FaceDetection and Anonymization
 It uses **Haar features** framework implemented in OpenCV to detect mainly faces positions and eyes position. It uses then this information to add different accessories to the faces ( moustache, eyes etc).
 
+![](Video Projet INF573-2-min.gif)
+
+*(The quality of the video is low because the quality is greatly reduced by GitHub . You can download the video in .mov for a better quality.)*
+
 ## Dependencies
 
 * OpenCV(3.2.0)
