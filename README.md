@@ -34,3 +34,5 @@ It uses **Haar features** framework implemented in OpenCV to detect mainly faces
 * Press f to anonymize the eyes with black boxes
 * Press g to add eyes 👀 
 * Press s to save the image in your computer
+
+Code is from Naomie Halioua
